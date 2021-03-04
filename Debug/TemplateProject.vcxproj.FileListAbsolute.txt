@@ -1,0 +1,4 @@
+C:\Users\smf-m\Google Drive\Universidad\Computacion grafica\GLSL_Lighting\Debug\TemplateProject.exe
+C:\Users\smf-m\Google Drive\Universidad\Computacion grafica\GLSL_Lighting\Debug\TemplateProject.pdb
+C:\Users\geile\Documents\GLSL_Lighting\GLSL_Lighting\Debug\TemplateProject.exe
+C:\Users\geile\Documents\GLSL_Lighting\GLSL_Lighting\Debug\TemplateProject.pdb
